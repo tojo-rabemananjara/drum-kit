@@ -5,5 +5,5 @@ Simple drum-kit user interface made with HTML, CSS, and JS. User can make percus
 * HTML
 * CSS
 * JS
-##Launch
+## Launch
 Go to https://tojo-drum-kit.surge.sh
